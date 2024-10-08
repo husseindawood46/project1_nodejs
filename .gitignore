@@ -1,2 +1,16 @@
-node_modules
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
 .env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore package-lock.json if not needed
+# package-lock.json
